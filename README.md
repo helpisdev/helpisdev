@@ -112,5 +112,4 @@ I am excited to bring my skills, experience, and dedication to a dynamic organiz
 
 ## Contact Me
 
-[helpis.dev](helpis.dev)
 [info@helpis.dev](info@helpis.dev)
