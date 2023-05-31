@@ -100,7 +100,7 @@ I have developed various closed source work for a diverse clientele earlier in m
 
 ## Previous projects for educational purposes
 
-> Note: Some of the following depended on school resources that me be offline now
+> Note: Some of the following depended on school resources that may be offline now
 
 ### C++
 
