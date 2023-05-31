@@ -63,7 +63,7 @@ I am excited to bring my skills, experience, and dedication to a dynamic organiz
 	- Have written some Rust code in an effort to integrate Dart to a Rust tool
 	- Some understanding of the difficulties of borrowing and lifetimes
 
-#### Interedted in:
+#### Interested in:
 
 - **Zig**, amazing syntax, it really feels like C with superpowers (aka known undefined behavior)
 - **Go**, a lot of code is being written in Go so it might be prove useful
