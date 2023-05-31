@@ -80,6 +80,14 @@ I am excited to bring my skills, experience, and dedication to a dynamic organiz
 - **Academic Knowledge**: Studied operating systems, software development lifecycle, artificial intelligence, data structures and algorithms, system security, and networking at an academic entry level.
 - **Excellent research abilities**: University's CS program fell short of my expectations by a lot, so I turned to self-studying instead. In that period I had to be able to find quality information in a huge pool of content, so I spent a huge amount of time perfecting my research skills.
 
+## Professional Work
+
+I have developed various closed source work for a diverse clientele earlier in my career. Some of my works include:
+
+- [mepielan.gr](https://mepielan.gr), website for the __Mediterranean Programme for International Environmental Law And Negotiation__, then under the juristictionof the Panteio University of Greece, and currently under the UN. The organization has been delighted not only by my work, but also the extensive support and help that I've offered, and they have currently trusted with a second project, which is still under development.
+- [apofraxeis-nk.gr](https://apofraxeis-nk.gr/), a website design and development for a plumbing freelancer
+- [tambook.gr](https://tambook.gr/), my first ever project, a simple blogging website for a friend. Volunteer work.
+
 ## My Projects
 
 - [utilities](https://github.com/helpisdev/utilities.git), personal Dart/Flutter library with hundreds of features, including but not limited to routing, extensions, localization, theming, widgets, and more.
