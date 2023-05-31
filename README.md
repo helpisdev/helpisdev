@@ -73,7 +73,7 @@ I am excited to bring my skills, experience, and dedication to a dynamic organiz
 
 - **English**: Excellent writing/listening and very good speaking abilities
 - **Linux**: Power user of Debian based distributions, currently experimenting with PopOS
-- **Git*: Understand and conceptualize different Git flows and use of conventional commits and semver
+- **Git**: Understand and conceptualize different Git flows and use of conventional commits and semver
 - **UI/UX Design**: Studied UI design and UX to be able to communicate with other departments, bridging the gap with development
 - **Privacy and Security**: Deeply care about privacy and providing solutions that respect clients and their clients
 - **Digital Marketing**: Experimented with digital marketing, promoting a business on their social media accounts
