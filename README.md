@@ -84,7 +84,7 @@ I am excited to bring my skills, experience, and dedication to a dynamic organiz
 
 I have developed various closed source work for a diverse clientele earlier in my career. Some of my works include:
 
-- [mepielan.gr](https://mepielan.gr), website for the __Mediterranean Programme for International Environmental Law And Negotiation__, at the time under the juristiction of the Panteio University of Greece, and currently under the UN. The organization has been delighted not only by my work, but also the extensive support and help that I've offered, and they have currently trusted with a second project, which is still under development.
+- [mepielan.gr](https://mepielan.gr), website for the __Mediterranean Programme for International Environmental Law And Negotiation__, at the time under the juristiction of the Panteio University of Greece, and currently an independent NGO, collaborating with the UN and other big organizations like Cambridge University. The organization has been delighted not only by my work, but also the extensive support and help that I've offered, and they have currently trusted with a second project, which is still under development.
 - [apofraxeis-nk.gr](https://apofraxeis-nk.gr/), a website design and development for a plumbing freelancer.
 - [tambook.gr](https://tambook.gr/), my first ever project, a simple blogging website for a friend. Volunteer work.
 
