@@ -2,7 +2,7 @@
 
 ## About Me
 
-As a hardworking and dedicated individual with a passion for computer science, I have spent over 5000 hours honing my skills in Flutter/Dart, and an additional 3000 hours studying the field. Despite facing the challenges of a brain tumor, I have worked on projects with prestigious organizations such as the **UN** and the **Panteio University of Greece**, demonstrating my ability to work effectively both independently and as part of a team.
+As a hardworking and dedicated individual with a passion for computer science, I have spent over 5000 hours honing my skills in Flutter/Dart, and an additional 10000 hours studying the field. Despite facing the challenges of a brain tumor, I have worked on projects with prestigious organizations such as the **UN** and the **Panteio University of Greece**, demonstrating my ability to work effectively both independently and as part of a team.
 
 In addition to my technical expertise, I have a diverse range of personal interests including cooking, fitness, electric guitar, drawing, Italian, privacy, and security. These interests have helped me develop a well-rounded and creative approach to problem-solving, which I believe will be an asset to any employer.
 
@@ -36,16 +36,22 @@ I am excited to bring my skills, experience, and dedication to a dynamic organiz
 
 #### Good understanding and working experience:
 
-- **JavaScript**
+- **TypeScript/JavaScript**
+	- Deep knowledge of TypeScript's structural type-system 	
 	- Can write and debug front-end JavaScript applications
+ 	- Using astro.js for SSG/SSR/SPAs/MPAs 
 	- Have worked with React and JSX
-	- Have some entry level experience with Node
+	- Have some entry level experience with Node and Express.js
 - **HTML5**
+	- Utilization of RadixUI's unstyled components 
 	- Can effectively use semantic tags
 	- Care about accessibility
+ 	- SEO optimization and schema.org enrichment 
 - **CSS3**
 	- Have debugged many CSS3 stylesheets
 	- Can create simple animations with keyframes
+ 	- Basic usage of Tailwind CSS
+  	- RadixUI Color system  
 
 #### Familiarity:
 
