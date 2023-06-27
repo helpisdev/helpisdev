@@ -68,6 +68,9 @@ I am excited to bring my skills, experience, and dedication to a dynamic organiz
 - **Rust**
 	- Have written some Rust code in an effort to integrate Dart to a Rust tool
 	- Some understanding of the difficulties of borrowing and lifetimes
+- **Various JS Runtimes**
+	- Have worked with Node and Express
+	- Lately exploring Deno and Bun (written in Zig!)
 
 #### Interested in:
 
