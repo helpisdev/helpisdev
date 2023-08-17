@@ -6,7 +6,7 @@ As a hardworking and dedicated individual with a passion for computer science, I
 
 In addition to my technical expertise, I have a diverse range of personal interests including cooking, fitness, electric guitar, drawing, Italian, privacy, and security. These interests have helped me develop a well-rounded and creative approach to problem-solving, which I believe will be an asset to any employer.
 
-I am excited to bring my skills, experience, and dedication to a dynamic organization that values teamwork, innovation, and a commitment to excellence.
+I am excited to have joined WhereAt, where I can bring my skills, experience, and dedication to a dynamic organization that values teamwork, innovation, and a commitment to excellence.
 
 ## My Skills
 
